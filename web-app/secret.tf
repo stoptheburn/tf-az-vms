@@ -28,7 +28,7 @@ resource "azurerm_key_vault" "apprstfkeyvalut" {
       "Get",
     ]
   }
-  #*#/
+  */
 }
 
 data "azurerm_key_vault" "apprstfvault" {
